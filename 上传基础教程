@@ -1,0 +1,11 @@
+git½Ì³Ì   http://www.cnblogs.com/cxk1995/p/5800196.html
+python   http://www.runoob.com/python/python-nested-loops.html
+git¹ÙÍø   https://github.com/1617193130/30/upload/master
+git 上传： git config --global user.email "you@example.com" 邮箱
+           git config --global user.name "Your Name"用户名
+           git clone 网址
+           cd 库  进入库的文件夹 把东西复制进去
+           git add .  点前面有空格
+           git commit  -m "loge"提交信息
+           git push -u origin master  上传 需要输入用户名密码
+                                        1617193130  qwe123. 
